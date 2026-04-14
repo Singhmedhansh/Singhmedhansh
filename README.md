@@ -1,45 +1,39 @@
-# Medhansh Pratap Singh
-`CS · AIML @ RVCE, Bengaluru` &nbsp;·&nbsp; he/him
+I came in asking why things break before they work,
+and why a single missing semicolon makes the whole thing lurk.
+React taught me that a page can think and feel and change,
+and Python showed me patterns hiding in the strange.
+I've read how Amazon splits a monolith at its seams,
+and learned that scale is just a thousand smaller dreams.
+Now I'm building something — honest, rough, not done,
+a compass made of code, pointed toward the sun.
 
 ---
 
-### about
+### who i am
 
-First-year CS student with a bias for **building things that run in the browser**.  
-I write Python when I think, and React when I want someone to see it.  
-Lately I've been reading about how systems at scale — Amazon, Meta, Netflix — are actually wired together.
+First-year CS · AIML student at **RV College of Engineering, Bengaluru.**
 
----
+I like making things that live in the browser — **React, JSX, Tailwind** are where I'm most comfortable.
+Python is how I think through problems before I build them.
 
-### currently working on
-
-> 🟢 **AI-Compass** — my first product. An AI-powered tool I'm building from scratch. Launching soon. Stay tuned.
-
----
-
-### stack
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+I've been going deep on **system design** lately — how databases hold together under pressure,
+how big products like Amazon and Facebook are architected,
+what makes a system stay standing when everything is on fire.
 
 ---
 
-### interests
+### currently shipping
 
-| frontend | systems | databases | building |
-|---|---|---|---|
-| interactive web, component design, UI that doesn't look like a template | system design, how big apps stay standing | MySQL, schema design, thinking in queries | products, not just projects — things people actually use |
+*AI-Compass* — my first real product. AI-powered, built from scratch, coming soon.
+It's the thing I think about before I sleep.
 
 ---
 
 ### reach me
 
-[![Email](https://img.shields.io/badge/email-cosdilraj07@gmail.com-grey?style=flat&logo=gmail)](mailto:cosdilraj07@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fmedhansh--pratap--singh-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/medhansh-pratap-singh)
+medhansh.builds@gmail.com &nbsp;·&nbsp; singhmedhansh07@gmail.com
+
+[linkedin.com/in/medhansh-pratap-singh](https://www.linkedin.com/in/medhansh-pratap-singh/)
 
 ---
 
