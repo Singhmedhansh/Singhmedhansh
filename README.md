@@ -1,39 +1,107 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&style=italic&size=17&duration=2800&pause=700&color=888888&center=true&vCenter=true&multiline=true&width=680&height=140&lines=I+came+with+questions+and+code+that+wouldn%27t+quit%2C;React+showed+me+the+browser%2C+Python+made+it+fit.;Now+building+something+real+%E2%80%94+rough%2C+honest%2C+not+done%2C;a+compass+made+of+code%2C+pointed+toward+the+sun." alt="Typing intro" />
+
+<img src="assets/hero.svg" alt="Medhansh Pratap Singh. Founder, product designer and full-stack developer. I build products that make everyday work a little easier, and I ship them." width="100%">
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-medhansh.vercel.app-E8A23B?style=for-the-badge&logo=vercel&logoColor=14120F&labelColor=14120F)](https://medhansh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-medhansh--pratap--singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=14120F)](https://www.linkedin.com/in/medhansh-pratap-singh/)
+[![X](https://img.shields.io/badge/X-@Medhanshps-F5F2EC?style=for-the-badge&logo=x&logoColor=F5F2EC&labelColor=14120F)](https://x.com/Medhanshps)
+[![Email](https://img.shields.io/badge/Email-medhansh.builds@gmail.com-8FB996?style=for-the-badge&logo=gmail&logoColor=8FB996&labelColor=14120F)](mailto:medhansh.builds@gmail.com)
+[![Resume](https://img.shields.io/badge/Résumé-PDF-A39B8B?style=for-the-badge&logo=readthedocs&logoColor=A39B8B&labelColor=14120F)](https://medhansh.vercel.app/assets/docs/Medhansh_Pratap_Singh_Resume.pdf)
+
 </div>
 
 <br>
 
----
+## 👋 About
 
-### Who I am
+Second-year CS (AI & ML) student at **RV College of Engineering, Bengaluru**. I start from small, everyday problems and turn them into products people actually use. I run two of them end to end, from first commit to monetization: **AI Compass** and **Manilla**.
 
-First-year CS · AIML student at **RV College of Engineering, Bengaluru.**
+I learn by building, and I care about the whole thing: the design, the code, the launch and the numbers afterwards. Outside class I follow automobiles and sports, and I'm on the core team at **Ashwa Racing, RVCE**.
 
-I like making things that live in the browser — **React, JSX, Tailwind** are where I'm most comfortable.
+> 🟢 **Open to** internships, contributing to projects, and partnering on new products. Say hi.
 
-Python is how I think through problems before I build them.
+<br>
 
-I've been going deep on **system design** lately — how databases hold together under pressure, how big products like Amazon and Facebook are architected, what makes a system stay standing when everything is on fire.
+## 📈 AI Compass, by the numbers
 
----
+<div align="center">
+  <img src="assets/stats.svg" alt="AI Compass: 670+ AI tools hand-checked, 870 registered users, 73K pageviews per month, 480K Google impressions" width="100%">
+</div>
 
-### currently shipping
+<sub>Live since March 2026 at [ai-compass.in](https://ai-compass.in). Earning revenue from labelled sponsored placements since October 2026.</sub>
 
-*AI-Compass* — my first real product. AI-powered, built from scratch, coming soon.
+<br>
 
-It's the thing I think about before I sleep.
+## 🚀 Selected work
 
----
+<table>
+  <tr>
+    <td width="50%"><a href="https://ai-compass.in"><img src="assets/card-ai-compass.svg" alt="AI Compass" width="100%"></a></td>
+    <td width="50%"><a href="https://usemanilla.in"><img src="assets/card-manilla.svg" alt="Manilla" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/Singhmedhansh/AgriScan360-Global"><img src="assets/card-agriscan360.svg" alt="AgriScan360" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Singhmedhansh/GDG_SolutionChallenge"><img src="assets/card-fairscan.svg" alt="FairScan" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/Singhmedhansh/Flight_app"><img src="assets/card-flight-app.svg" alt="Flight Management System" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/Singhmedhansh?tab=repositories"><img src="assets/card-typingtest.svg" alt="TypingTest" width="100%"></a></td>
+  </tr>
+</table>
 
-### Reach Me
+<p align="center">
+  Case studies: <a href="https://medhansh.vercel.app/work/ai-compass/">AI Compass</a> · <a href="https://medhansh.vercel.app/work/manilla/">Manilla</a> · Live demo: <a href="https://medhanshcoder-agriscan360.hf.space">AgriScan360</a>
+</p>
 
-[medhansh.builds@gmail.com](mailto:medhansh.builds@gmail.com)
+<br>
 
-[singhmedhansh07@gmail.com](mailto:singhmedhansh07@gmail.com)
+## 🧰 Stack
 
-[LinkedIn ↗](https://www.linkedin.com/in/medhansh-pratap-singh/)
+<div align="center">
+  <img src="assets/stack.svg" alt="Tech stack: Python, TypeScript, JavaScript, C, SQL, React, Next.js, Node.js, Flask, FastAPI, PostgreSQL, TensorFlow, OpenCV, Vercel, Render, Supabase and more" width="100%">
+</div>
 
----
+<sub>Product side: UI design, product strategy, launch and go-to-market, monetization, technical writing.</sub>
 
-<sub>cs student · web site builder · system design curious · first product incoming</sub>
+<br>
+
+## 🛠️ Experience
+
+| When | Role | What I did |
+| :-- | :-- | :-- |
+| **Oct 2026 – now** | Founder & Maker, [Manilla](https://usemanilla.in) | Launched a no-login client file and answer collection tool, now working on early growth |
+| **Jul 2026 – now** | SMP & IT Core Team, Ashwa Racing, RVCE | Sponsorships and alumni relations, marketing, maintaining [ashwaracing.org](https://ashwaracing.org), research on the team's planned driverless platform |
+| **Jul – Aug 2026** | MERN Full-Stack Intern, Techvruk (remote) | Next.js 15, React 18, TypeScript and Node/Express on PostgreSQL, Redis and S3. Socket.IO real-time features, JWT and Google OAuth, Gemini-powered features |
+| **Mar 2026 – now** | Founder & Maker, [AI Compass](https://ai-compass.in) | Ran it from MVP to monetization: product, design, code, SEO and sponsors |
+| **Nov 2025 – Jul 2026** | Team Member, Ashwa Racing, RVCE | Joined the team, moved to the core team in July 2026 |
+
+<br>
+
+## 🏅 Certifications & milestones
+
+- **Google Solution Challenge 2026: Build with AI**, participation certificate for the FairScan prototype (Google Developer Groups × Hack2Skill)
+- **Crash Course on Python**, Google (Coursera) · **Introduction to Artificial Intelligence**, IBM (Coursera)
+- **Mercedes-Benz USA** via Coastline ROP: Electrical-Networking, and 100+ modules of Registered Technician eLearnings
+- ☁️ **AWS Certified Solutions Architect**: in preparation
+
+<br>
+
+## 📊 Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singhmedhansh/Singhmedhansh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singhmedhansh/Singhmedhansh/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Singhmedhansh/Singhmedhansh/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+
+*Building in public from Bengaluru.* ☕
+
+</div>

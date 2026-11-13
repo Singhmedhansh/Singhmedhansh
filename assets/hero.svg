@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Medhansh Pratap Singh. Founder, product designer and full-stack developer. I build products that make everyday work a little easier, and I ship them.">
+<defs>
+  <radialGradient id="glow1" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#E8A23B" stop-opacity="0.35"/><stop offset="1" stop-color="#E8A23B" stop-opacity="0"/></radialGradient>
+  <radialGradient id="glow2" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#8FB996" stop-opacity="0.22"/><stop offset="1" stop-color="#8FB996" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2E2A22" stroke-width="1" opacity="0.55"/></pattern>
+  <clipPath id="r"><rect width="1200" height="360" rx="20"/></clipPath>
+</defs>
+<style>
+  .orb1{animation:float1 9s ease-in-out infinite}
+  .orb2{animation:float2 11s ease-in-out infinite}
+  .cur{animation:blink 1.1s steps(1) infinite}
+  @keyframes float1{0%,100%{transform:translate(0,0)}50%{transform:translate(-30px,20px)}}
+  @keyframes float2{0%,100%{transform:translate(0,0)}50%{transform:translate(25px,-18px)}}
+  @keyframes blink{0%,50%{opacity:1}51%,100%{opacity:0}}
+</style>
+<g clip-path="url(#r)">
+  <rect width="1200" height="360" fill="#14120F"/>
+  <rect width="1200" height="360" fill="url(#grid)"/>
+  <ellipse class="orb1" cx="1010" cy="70" rx="330" ry="230" fill="url(#glow1)"/>
+  <ellipse class="orb2" cx="1130" cy="330" rx="260" ry="190" fill="url(#glow2)"/>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="359" rx="20" fill="none" stroke="#2E2A22"/>
+
+<circle cx="54" cy="52" r="6" fill="#E5604F"/><circle cx="76" cy="52" r="6" fill="#E8A23B"/><circle cx="98" cy="52" r="6" fill="#8FB996"/>
+<text x="126" y="57" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#A39B8B">~/medhansh <tspan fill="#E8A23B">main</tspan></text>
+
+<text x="60" y="130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" fill="#E8A23B">Hi, I'm Medhansh Pratap Singh<tspan class="cur" fill="#F5F2EC"> ▍</tspan></text>
+<text x="60" y="196" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700" fill="#F5F2EC">I build products that make</text>
+<text x="60" y="254" font-family="Georgia, 'Times New Roman', serif" font-size="50" font-weight="700" fill="#F5F2EC">everyday work <tspan font-style="italic" fill="#E8A23B">a little easier</tspan>.</text>
+
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+  <rect x="60" y="290" width="104" height="32" rx="16" fill="none" stroke="#E8A23B"/><text x="112" y="311" text-anchor="middle" fill="#E8A23B">Founder</text>
+  <rect x="176" y="290" width="150" height="32" rx="16" fill="none" stroke="#2E2A22"/><text x="251" y="311" text-anchor="middle" fill="#F5F2EC">Product designer</text>
+  <rect x="338" y="290" width="150" height="32" rx="16" fill="none" stroke="#2E2A22"/><text x="413" y="311" text-anchor="middle" fill="#F5F2EC">Full-stack dev</text>
+  <rect x="506" y="290" width="300" height="32" rx="16" fill="none" stroke="#2E2A22"/><text x="656" y="311" text-anchor="middle" fill="#A39B8B">RVCE · CSE (AI &amp; ML) · Bengaluru</text>
+</g>
+</svg>
